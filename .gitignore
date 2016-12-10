@@ -4,8 +4,9 @@
 */DerivedData
 */Intermediate
 */Saved
-BlackandWhiteMain/Content/StarterContent/
-BlackandWhiteMain/Content/AnimStarterPack/
+OneRoom/Content/StarterContent/
+OneRoom/Content/AnimStarterPack/
+OneRoom/Content/MobileStarterContent/
 
 # VS Generated Files #
 *.VC.db

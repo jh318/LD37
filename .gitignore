@@ -1,0 +1,12 @@
+#Unreal Generated Files#
+*/Binaries
+*/Build
+*/DerivedData
+*/Intermediate
+*/Saved
+BlackandWhiteMain/Content/StarterContent/
+BlackandWhiteMain/Content/AnimStarterPack/
+
+# VS Generated Files #
+*.VC.db
+*.opendb
